@@ -1,4 +1,4 @@
-<h1 align="center">I'm Biddut Bhowmik</h1>
+<h1 align="center">Hi 👋, I'm Biddut Bhowmik</h1>
 <h3 align="center">A passionate fullstack Laravel and Django developre from Bangladesh</h3>
 
 - 🌱 I’m currently learning **Vue.js, Django Framework**
