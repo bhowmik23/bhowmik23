@@ -3,7 +3,7 @@
 
 - 🔭 Jr. Web Developer **GQ Group of Companies**
 
-- 🌱 I’m currently learning **Vue.js, Django Framework, MongoDB**
+- 🌱 I’m currently learning **Vue.js, Django Framework, MongoDB, Wordpress**
 
 - 📫 How to reach me **http://bhowmik23.pythonanywhere.com/**
 
