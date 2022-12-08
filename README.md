@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Vue.js, Rest Api, Web-Socket**
 
-- 📫 How to reach me **http://bhowmik23.pythonanywhere.com/**
+- 📫 How to reach me **https://bhowmikbiddut.xyz/**
 
 
 <h3 align="left">Languages and Tools:</h3>
