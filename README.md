@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Biddut Bhowmik</h1>
 <h3 align="center">A passionate full-stack Web Developer</h3>
 
-- 🔭 Software Engineer at **<a href="https://ulula.com/">Ulula Canada Inc</a>(Remote)**
+- 🔭 Software Engineer at **<a href="https://ulula.com/">Ulula Canada Inc</a> (Remote)**
 
 - 🌱 I’m currently learning **Vue.js, Rest Api, Web-Socket**
 
